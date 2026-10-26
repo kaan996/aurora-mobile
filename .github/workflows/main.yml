@@ -83,7 +83,6 @@ jobs:
           name: AURORA-Mobile-2.0.3-debug-APK
           path: AURORA-Mobile-V2.0.3-FULL-SOURCE/AURORA-Mobile-V2/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
-```
       - name: Install Gradle
         uses: gradle/actions/setup-gradle@v4
 
