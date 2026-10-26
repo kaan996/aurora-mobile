@@ -25,7 +25,7 @@ jobs:
           distribution: temurin
           java-version: "17"
 
-      - ```yaml
+      
 name: Build AURORA Mobile APK
 
 on:
